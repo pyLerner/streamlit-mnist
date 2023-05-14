@@ -1,5 +1,5 @@
 streamlit
-numpy as np
+numpy
 PIL
 tensorflow
 keras
