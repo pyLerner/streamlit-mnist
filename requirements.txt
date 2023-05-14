@@ -1,0 +1,6 @@
+streamlit
+numpy as np
+PIL
+tensorflow
+keras
+
